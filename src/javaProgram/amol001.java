@@ -6,6 +6,8 @@ public class amol001 {
 		a=10;b=25;
 		c=a+b;
 		System.out.println("sum of number = "+c);
+		
+		System.out.println("substract two number = "+(b-a));
 	}
 
 }
